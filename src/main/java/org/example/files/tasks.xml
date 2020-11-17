@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Task>
+    <Task id="1">
+        <Caption>oooo</Caption>
+        <Description>aaaaa</Description>
+        <Priority>30</Priority>
+        <Deadline>13.10.2020</Deadline>
+        <Status>done</Status>
+        <Complete>13.10.2020</Complete>
+    </Task>
+    <Task id="2">
+        <Caption>oooo</Caption>
+        <Description>aaaaa</Description>
+        <Priority>30</Priority>
+        <Deadline>10.10.2020</Deadline>
+        <Status>new</Status>
+        <Complete>null</Complete>
+    </Task>
+    <Task id="3">
+        <Caption>oooo</Caption>
+        <Description>aaaaa</Description>
+        <Priority>30</Priority>
+        <Deadline>10.10.2020</Deadline>
+        <Status>done</Status>
+        <Complete>30.09.2021</Complete>
+    </Task>
+    <Task id="4">
+        <Caption>oooo</Caption>
+        <Description>aaaaa</Description>
+        <Priority>30</Priority>
+        <Deadline>10.10.2020</Deadline>
+        <Status>deleted</Status>
+        <Complete>null</Complete>
+    </Task>
+    <Task id="5">
+        <Caption>oooo</Caption>
+        <Description>aaaaa</Description>
+        <Priority>30</Priority>
+        <Deadline>10.10.2020</Deadline>
+        <Status>new</Status>
+        <Complete>null</Complete>
+    </Task>
+    <Task id="6">
+        <Caption>oooo</Caption>
+        <Description>aaaaa</Description>
+        <Priority>30</Priority>
+        <Deadline>10.10.2020</Deadline>
+        <Status>new</Status>
+        <Complete>null</Complete>
+    </Task>
+    <Task id="7">
+        <Caption>oooo</Caption>
+        <Description>aaaaa</Description>
+        <Priority>30</Priority>
+        <Deadline>10.10.2020</Deadline>
+        <Status>new</Status>
+        <Complete>null</Complete>
+    </Task>
+    <Task id="8">
+        <Caption>lol</Caption>
+        <Description>alksjakjsldnkasd</Description>
+        <Priority>99</Priority>
+        <Deadline>10.05.2021</Deadline>
+        <Status>new</Status>
+        <Complete>null</Complete>
+    </Task>
+    <Task id="9">
+        <Caption>alkslakcslknasc</Caption>
+        <Description>;lcmal;ksndcknasld;c</Description>
+        <Priority>54</Priority>
+        <Deadline>10.10.2020</Deadline>
+        <Status>new</Status>
+        <Complete>null</Complete>
+    </Task>
+</Task>

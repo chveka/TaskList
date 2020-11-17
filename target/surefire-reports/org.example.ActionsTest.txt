@@ -1,0 +1,9 @@
+-------------------------------------------------------------------------------
+Test set: org.example.ActionsTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.092 s <<< FAILURE! - in org.example.ActionsTest
+initializationError(org.example.ActionsTest)  Time elapsed: 0.009 s  <<< ERROR!
+org.junit.runners.model.InvalidTestClassError: 
+Invalid test class 'org.example.ActionsTest':
+  1. Method getTaskList() should be static
+
